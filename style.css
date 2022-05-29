@@ -10,6 +10,7 @@
     width: 90%;
     display: grid;
     margin: 20px auto;
+    grid-template-rows: 20% 80%;
     grid-template-columns: 300px 700px;
 }
 .left-section{
